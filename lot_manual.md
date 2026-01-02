@@ -50,11 +50,12 @@ LOT operates using a membership-based, trust-level system:
 
 ## 5. How Members Can Join
 To join LOT:
-1.  Request to join the community.
-2.  Complete identity verification.
-3.  Select a membership plan and pay the subscription fee based on the chosen level.
-4.  Accept LOT rules & agreement.
-5.  Get access to items. *Only the Basic Level starts at Level 1; other members can start at a higher level with a paid subscription.*
+1.  **Obtain a Reference Number/Coupon Code:** New members must claim a unique code from a Founder or Founding Member to initiate entry.
+2.  Request to join the community.
+3.  Complete identity verification.
+4.  Select a membership plan and pay the subscription fee based on the chosen level.
+5.  Accept LOT rules & agreement.
+6.  Get access to items. *Only the Basic Level starts at Level 1; other members can start at a higher level with a paid subscription.*
 
 *Membership is personal and non-transferable (except approved family access for founders, who can participate with their immediate children).*
 
@@ -165,6 +166,14 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *   50% discount on all workshops.
 *   Founder recognition (physical & digital).
 *   **Family Access:** Can participate with immediate children.
+*   **Referral Rights:** Granted **5 coupon codes/reference numbers** to give away to liable, well-known individuals.
+
+### Responsibilities
+*   Founding Members are **responsible** for the members they refer using their codes.
+*   Donate items as non-reversible contributions.
+*   Accept that donated items become LOT property.
+*   Support community growth.
+*   Act as mentors and role models.
 
 ## 14. Agreements
 
@@ -174,11 +183,7 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *   Accept trust-based access control.
 *   Respect community values.
 
-### Founding Members Also Agree To:
-*   Donate items as non-reversible contributions.
-*   Accept that donated items become LOT property.
-*   Support community growth.
-*   Act as mentors and role models.
+
 
 ## 15. If LOT Operations Stop
 If LOT ceases operations entirely:
