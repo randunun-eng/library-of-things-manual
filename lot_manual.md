@@ -64,13 +64,16 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *Note: New members can join directly up to Level 3 by paying the higher subscription fee related to that category. Then they can also level up by collecting points like others.*
 
 ### 🧱 Level 1 – Explorer
+*   **Fee:** Rs. 2000
 *   **Access:** Basic LEGO kits, Common tools, Low-cost DIY items.
 *   **For:** New members (Basic).
 
 ### 🔧 Level 2 – Maker
+*   **Fee:** Rs. 3500
 *   **Access:** IoT starter kits, Sensors & microcontrollers, Electronics tools, Power tools, Hand tools.
 
 ### 🤖 Level 3 – Builder
+*   **Fee:** Rs. 5000
 *   **Access:** Robotics kits, RC systems, Advanced electronics.
 
 ### 🛩️ Level 4 – Innovator
