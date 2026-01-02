@@ -9,26 +9,31 @@ The Library of Things (LOT) is a community-driven shared resource platform where
 *   Learning-by-doing
 *   Community contribution
 
-*This is not a rental shop and not a marketplace.*
+*While this is not a rental shop or marketplace, we facilitate a service to enhance client productivity: members can purchase items they have tested in LOT and wish to own for personal use.*
 
 ## 2. How LOT Operates
 LOT operates using a membership-based, trust-level system:
-*   Members subscribe to LOT
-*   Members borrow items based on their membership level
-*   Responsible usage earns points
-*   Points unlock higher levels
-*   Higher levels give access to more valuable and rare items
+*   Members subscribe to LOT.
+*   Members borrow items based on their membership level.
+*   Responsible usage earns points.
+*   Points unlock higher levels.
+*   Higher levels give access to more valuable and rare items.
+*   **Access Growth:** Access grows with behavior, not just payment. However, members can initially enter a higher category by paying a higher subscription value to fast-track access to high-level inventories. Basic members can level up by earning points.
 
-*Access grows with behavior, not just payment.*
+## 3. Digital Platform & Community
+*   **Virtual Platform:** We operate a virtual cloud-based LOT platform for lending, arranging time slots, booking the physical workspace, payments, new registrations, and terminations.
+*   **Gamification:** Each member has an avatar with points, similar to a game. Members submit evidence of their work to earn points.
+*   **Community:** A private Facebook page is available for discussions.
 
-## 3. Where LOT Operates
+## 4. Where LOT Operates
 
 ### Physical Location
-*   **Base:** LOT operates from a physical workspace.
-*   **Location:** (Google Map location and full address to be pinned).
-*   **Entry:** By booking time slots.
+*   **Address:** 1/3, Sri Sumangala Road, Moraketiya Junction, Pannipitiya, Sri Lanka.
+*   **Coordinates:** [6.845170972328471, 79.95252364865898](https://www.google.com/maps?q=6.845170972328471,79.95252364865898)
+*   **Contact:** +94779336857
+*   **Entry:** By booking time slots via the platform.
 *   **Capacity:** Initial capacity: 6 members at a time.
-*   **Parking:** 2 vehicles.
+*   **Parking:** 2 vehicles. *Please try to avoid school beginning and off times to reduce traffic congestion.*
 *   **Facilities:**
     *   Fully air-conditioned workspace.
     *   Electrical & electronic workbenches.
@@ -43,25 +48,27 @@ LOT operates using a membership-based, trust-level system:
 *   Introduces LOT concept.
 *   Enables product testing & early exposure.
 
-## 4. How Members Can Join
+## 5. How Members Can Join
 To join LOT:
 1.  Request to join the community.
 2.  Complete identity verification.
-3.  Select a membership plan.
+3.  Select a membership plan and pay the subscription fee based on the chosen level.
 4.  Accept LOT rules & agreement.
-5.  Get access to Level 1 items.
+5.  Get access to items. *Only the Basic Level starts at Level 1; other members can start at a higher level with a paid subscription.*
 
-*Membership is personal and non-transferable (except approved family access for founders).*
+*Membership is personal and non-transferable (except approved family access for founders, who can participate with their immediate children).*
 
-## 5. Membership Levels & Item Categories
+## 6. Membership Levels & Item Categories
 Items are categorized based on Cost, Rarity, Risk, and Availability.
+
+*Note: New members can join directly up to Level 3 by paying the higher subscription fee related to that category. Then they can also level up by collecting points like others.*
 
 ### 🧱 Level 1 – Explorer
 *   **Access:** Basic LEGO kits, Common tools, Low-cost DIY items.
-*   **For:** New members.
+*   **For:** New members (Basic).
 
 ### 🔧 Level 2 – Maker
-*   **Access:** IoT starter kits, Sensors & microcontrollers, Electronics tools.
+*   **Access:** IoT starter kits, Sensors & microcontrollers, Electronics tools, Power tools, Hand tools.
 
 ### 🤖 Level 3 – Builder
 *   **Access:** Robotics kits, RC systems, Advanced electronics.
@@ -72,31 +79,33 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 ### 🧠 Level 5 – Advanced Lab
 *   **Access:** High-value professional equipment, Limited-availability tools, Research & product development equipment.
 
-## 6. Subscription Fee & Validity
-*   **Basic Membership Fee:** Rs. 2000
-*   **Validity:** 30 days
+## 7. Subscription Fee & Validity
+*   **Fee:** Based on the chosen level.
+*   **Validity:** 30 days.
+*   **Inactive Policy:** Inactive status for 30 days will automatically result in subscription cancellation by the system. The user must rejoin as a new member.
 *   **Requirement:** Membership must be active to borrow items.
-*   **Note:** Higher-level access is based on points & trust, not higher fees alone.
+*   **Progression:** Higher-level access is primarily based on points & trust, though initial entry up to Level 3 can be purchased.
 
-## 7. Points & Trust System
+## 8. Points & Trust System
 
 ### ⭐ How Points Are Earned
-*   On-time return
-*   Clean, undamaged return
-*   Uploading build photos/videos
-*   Sharing learning outcomes
-*   Helping other members
-*   Workshops & contributions
+*   On-time return.
+*   Clean, undamaged return.
+*   Uploading build photos/videos **to the LOT online portal**.
+*   Sharing learning outcomes **through our Facebook group**.
+*   Helping other members **virtually or at the physical location**.
+*   Workshops & contributions.
 
 ### ❌ Points Are Deducted For
-*   Late returns
-*   Damage due to misuse
-*   Rule violations
-*   Unsafe usage
+*   Late returns.
+*   Damage due to misuse.
+*   Rule violations.
+*   Unsafe usage.
+*   **Misuse of Membership:** e.g., continuously booking a specific product to prevent others from using/lending it.
 
 *Points determine level progression.*
 
-## 8. Borrowing & Return Policy
+## 9. Borrowing & Return Policy
 
 ### Borrowing
 *   **Subject to:** Active membership, Required level, Item availability.
@@ -108,7 +117,7 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *   In original working condition.
 *   Normal wear is acceptable.
 
-## 9. Security, Insurance & Recovery
+## 10. Security, Insurance & Recovery
 
 ### Security Deposit
 *   Refundable.
@@ -126,20 +135,20 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
     *   Replacement contribution.
     *   Temporary or permanent access restriction.
 
-## 10. Lost or Damaged Items
+## 11. Lost or Damaged Items
 *   Damage must be reported honestly.
 *   Assessment done by LOT team.
 *   **Outcomes:** Repair responsibility, Partial cost recovery, Point or level reduction.
 *   **Intentional misuse:** Leads to suspension.
 
-## 11. Legal Background & Liability
+## 12. Legal Background & Liability
 *   LOT provides access, not ownership.
 *   Members use items at their own risk.
 *   LOT is not liable for personal injury or misuse.
 *   Members must follow safety instructions.
 *   All borrowing is logged digitally.
 
-## 12. Founding Members
+## 13. Founding Members
 
 ### Selection
 *   Exactly 11 Founding Members.
@@ -152,8 +161,9 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *   Priority access.
 *   50% discount on all workshops.
 *   Founder recognition (physical & digital).
+*   **Family Access:** Can participate with immediate children.
 
-## 13. Agreements
+## 14. Agreements
 
 ### All Members Agree To:
 *   Follow LOT rules.
@@ -167,17 +177,21 @@ Items are categorized based on Cost, Rarity, Risk, and Availability.
 *   Support community growth.
 *   Act as mentors and role models.
 
-## 14. If LOT Operations Stop
+## 15. If LOT Operations Stop
 If LOT ceases operations entirely:
 *   Borrowed items must be returned.
-*   Deposits are refunded (after verification).
-*   Donated items remain community assets.
-*   Founding Members do not reclaim donated items.
-*   **Asset Transfer:** Assets may be transferred to Educational institutions, Community labs, or Non-profit maker spaces.
+*   **Refunds:** Deposits are refunded. Subscription fees are refunded only for the entitled month.
+*   **Donations:** Donated items remain community assets.
+    *   Founding Members can reclaim donated items *only* if LOT ceases operations entirely, but they must accept the current condition and wear due to usage.
+*   **Asset Transfer:** Assets may be transferred to Educational institutions, Community labs, or Non-profit maker spaces, based on the agreement between founders and founding members.
 
 *This ensures donations continue serving public good.*
 
-## 15. LOT in Other Countries (Global Inspiration)
+## 16. Governance
+*   Founders can alter and make decisions at any time regarding the operation.
+*   The Founders' decision is final.
+
+## 17. LOT in Other Countries (Global Inspiration)
 Similar initiatives worldwide:
 *   Library of Great Things (USA)
 *   Share Shed Mobile (Australia)
