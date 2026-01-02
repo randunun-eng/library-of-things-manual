@@ -22,6 +22,7 @@ LOT follows global best practices adapted to the Sri Lankan context, inspired by
 ---
 
 ## 2. Locations & Facilities
+*Access resources where you need them: a fully-equipped central hub for deep work and a future mobile unit for community outreach.*
 
 ### Physical Workspace (Base)
 *   **Address:** 1/3, Sri Sumangala Road, Moraketiya Junction, Pannipitiya, Sri Lanka.
@@ -42,6 +43,7 @@ LOT follows global best practices adapted to the Sri Lankan context, inspired by
 ---
 
 ## 3. Membership Framework
+*Our membership structure is designed to be inclusive yet structured. It combines a vetted entry process with a tiered system that rewards experience and trust over mere ability to pay.*
 
 ### How to Join
 1.  **Obtain a Reference Number:** New members must claim a unique code from a Founder or Founding Member (who have limited allocations).
@@ -79,6 +81,7 @@ Items are categorized by Cost, Rarity, Risk, and Availability.
 ---
 
 ## 4. The Trust System & Community
+*At the heart of LOT is a unique Trust Protocol. Unlike traditional commercial rentals, access here is a privilege earned through responsible behavior, active participation, and community contribution.*
 
 ### How it Works
 LOT operates on a **Trust-Level System**. Access grows with behavior, not just payment.
@@ -102,6 +105,7 @@ LOT operates on a **Trust-Level System**. Access grows with behavior, not just p
 ---
 
 ## 5. Operational Rules
+*To maintain a high standard of availability and quality for all, we have established clear guidelines governing the circulation of items and the conduct of our members.*
 
 ### Borrowing & Returns
 *   **Borrowing:** Subject to active membership and level. Security deposits/NIC retention only if required.
@@ -116,6 +120,7 @@ All members agree to:
 ---
 
 ## 6. Governance, Safety & Legal
+*Ensuring the longevity of the library and the safety of its members requires a robust framework for accountability, risk management, and administrative oversight.*
 
 ### Security & Insurance
 *   **Deposits:** Refundable; based on risk/value (waived for high-trust members).
