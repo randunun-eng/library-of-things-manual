@@ -73,7 +73,7 @@ Items are categorized by Cost, Rarity, Risk, and Availability.
 
 ### Founding Members
 *   **Selection:** Based on high-value donations (including considerable contributions for community development), expertise, and commitment.
-*   **Benefits:** Lifetime membership, High starting level, No deposits, Priority access, 50% workshop discount, Recognition.
+*   **Benefits:** Lifetime membership, Level 1 starting level, No deposits, Priority access, 50% workshop discount, Recognition.
 *   **Family Access:** Can participate with immediate children.
 *   **Referral Rights:** 5 coupon codes to give to trusted individuals.
 *   **Responsibilities:** Mentorship, non-reversible donations, and accountability for their referrals.
