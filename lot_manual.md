@@ -1,4 +1,4 @@
-# Library of Things (LOT) - Operational Manual
+# Library Of Things Sri Lanka - Operation Manual
 
 ## 1. Introduction & Philosophy
 

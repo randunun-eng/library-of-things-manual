@@ -1,4 +1,4 @@
-# Library of Things (LOT) - Operational Manual
+# Library Of Things Sri Lanka - Operation Manual
 
 Welcome to the official operational manual for the Library of Things (LOT). This repository contains the guidelines, rules, and frameworks that govern our community-driven shared resource platform.
 
