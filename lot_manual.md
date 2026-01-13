@@ -71,8 +71,8 @@ Items are categorized by Cost, Rarity, Risk, and Availability.
 *   **Inactive Policy:** Accounts inactive for 30 days are auto-cancelled; users must rejoin as new members.
 *   **Usage:** Membership must be active to borrow items.
 
-### Founding Members (Limited to 11)
-*   **Selection:** Based on high-value donations, expertise, and commitment.
+### Founding Members
+*   **Selection:** Based on high-value donations (including considerable contributions for community development), expertise, and commitment.
 *   **Benefits:** Lifetime membership, High starting level, No deposits, Priority access, 50% workshop discount, Recognition.
 *   **Family Access:** Can participate with immediate children.
 *   **Referral Rights:** 5 coupon codes to give to trusted individuals.
